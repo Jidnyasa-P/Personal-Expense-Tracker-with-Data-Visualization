@@ -1,0 +1,6 @@
+{
+  "name": "Personal Expense Tracker with Data Visualization",
+  "description": "A Python-based system for tracking and analyzing personal finances. Features include CSV ingestion, rule-based categorization, SQLite storage, Excel reporting, and an interactive Streamlit dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Python", "Data Visualization", "SQLite", "Streamlit"]
+}

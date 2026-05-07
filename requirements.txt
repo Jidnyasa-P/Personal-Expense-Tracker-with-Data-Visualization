@@ -1,0 +1,9 @@
+pandas
+streamlit
+matplotlib
+plotly
+xlsxwriter
+numpy
+openpyxl
+pytest
+python-dotenv
